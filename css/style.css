@@ -1,0 +1,73 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.hero.is-large .hero-body {
+    padding: 0;
+}
+.is-two-fifths{
+  padding-top: 15em;
+}
+.rocket{
+  height: 600px;
+  margin-left: 90px;
+}
+#headline{
+  margin-bottom: 0;
+  color: white;
+}
+.overview{
+  padding: 50px 0px;
+}
+.no-padding{
+  padding: 0;
+}
+.label {
+    color: white;
+    display: block;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.form-1{
+  color: white!important;
+}
+.content h2:not(:first-child) {
+    margin-top: 0em;
+}
+.headline{
+    color: white!important;
+}
+.navbar-item img {
+    max-height: 3.5rem;
+}
+html {
+  scroll-behavior: smooth;
+}
+.media-left img{
+  border-radius: 50px;
+}
+.center{
+  margin: 0 250px;
+}
+.margin{
+  margin-bottom: 50px;
+}
+.social {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+.social a{
+    color:#4a4a4a;
+}
+.social p{
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+#fb:hover{
+  color: #1877f2;
+}
+#ig:hover{
+  color: #c13584;
+}
+#tw:hover{
+  color: #5da9dd;
+}
